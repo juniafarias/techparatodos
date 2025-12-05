@@ -1,0 +1,17 @@
+:root {
+    --cor-primaria: #ff9900;
+    --cor-primaria-hover: #e68a00;
+    --cor-fundo-secao: #fffaf0;
+    --cor-texto-principal: #333;
+    --cor-borda: #ddd;
+    --fonte-principal: "Poppins", sans-serif;
+}
+
+:root.mod-dark {
+    --cor-primaria: #22211fea;
+    --cor-primaria-hover: #252421;
+    --cor-fundo-secao: #fffaf0;
+    --cor-texto-principal: #333;
+    --cor-borda: #ddd;
+    --fonte-principal: "Poppins", sans-serif;
+}
